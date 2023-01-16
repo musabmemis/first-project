@@ -16,3 +16,12 @@
 
 
 [link](https://google.com)
+
+| hasta adı |hasta yaşı |hastalık nedeni |
+| :--- | :--- |:--- |
+| ismet |kara | hemorroid |
+
+
+| boy | kilo | yaş |
+| :--- | :--- | :--- |
+| 1.82 | 85 | 65 | 
